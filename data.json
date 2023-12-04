@@ -1,7 +1,6 @@
 [
     {
-        papadias: [
-
+        "papadias": [
             {
                 "id": 1,
                 "name": "Dabl Cheddar Çizburger Papadias",
@@ -58,11 +57,8 @@
                 "category": "Papadias",
                 "price": 9
             }
-
         ],
-
-        pizza: [
-
+        "pizza": [
             {
                 "id": 1,
                 "name": "Çiken Parmezan",
@@ -103,7 +99,6 @@
                 "price": 20,
                 "composition": "Pizza Sousu, Mozzarella, Pomidor, Oreqano"
             },
-
             {
                 "id": 2,
                 "img": "https://www.papajohns.az/uploads/images/chicken_barbekyu.jpg",
@@ -128,158 +123,146 @@
                 "composition": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
                 "price": 10
             }
-
         ],
-
-        qelyanalti: [
+        "qelyanalti": [
             {
-                id: 1,
-                name: "Pepperoni Rolls",
-                img: "https://www.papajohns.az/uploads/images/pepperoni_rolls.jpg",
-                composition: "8 ədəd roll, Pizza-Sous",
-                category: "Qəlyanaltılar",
-                price: 9
-
+                "id": 1,
+                "name": "Pepperoni Rolls",
+                "img": "https://www.papajohns.az/uploads/images/pepperoni_rolls.jpg",
+                "composition": "8 ədəd roll, Pizza-Sous",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 2,
-                name: "Cheddar Rolls",
-                img: "https://www.papajohns.az/uploads/images/snacks/Cheddar-Rolls.png",
-                composition: "8 ədəd roll, Pizza-Sous",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 2,
+                "name": "Cheddar Rolls",
+                "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Rolls.png",
+                "composition": "8 ədəd roll, Pizza-Sous",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 3,
-                name: "Çiken Rolls",
-                img: "https://www.papajohns.az/uploads/images/snacks/Chicken-Rolls.jpg",
-                composition: "Qril Toyuğu, Turşu Xiyar, Mozzarella Pendiri, Ranç Sousu",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 3,
+                "name": "Çiken Rolls",
+                "img": "https://www.papajohns.az/uploads/images/snacks/Chicken-Rolls.jpg",
+                "composition": "Qril Toyuğu, Turşu Xiyar, Mozzarella Pendiri, Ranç Sousu",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 4,
-                name: "Acılı Çiken Rolls",
-                img: "https://www.papajohns.az/uploads/images/snacks/Spicy-Chicken-Rolls.jpg",
-                composition: "Qril Toyuğu, Halapeno Bibəri, Mozzarella Pendiri, Ranç Sousu",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 4,
+                "name": "Acılı Çiken Rolls",
+                "img": "https://www.papajohns.az/uploads/images/snacks/Spicy-Chicken-Rolls.jpg",
+                "composition": "Qril Toyuğu, Halapeno Bibəri, Mozzarella Pendiri, Ranç Sousu",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 5,
-                name: "Cheddar Pendirli Çubuqlar",
-                img: "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
-                composition: "1 ədəd Pizza sousu, 1 ədəd sarımsaq sousu",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 5,
+                "name": "Cheddar Pendirli Çubuqlar",
+                "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
+                "composition": "1 ədəd Pizza sousu, 1 ədəd sarımsaq sousu",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 6,
-                name: "Pendirli Çubuqlar",
-                img: "https://www.papajohns.az/uploads/images/pendirli_cubuqlar.jpg",
-                composition: "Sarımsaq Sousu, Pizza-Sous",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 6,
+                "name": "Pendirli Çubuqlar",
+                "img": "https://www.papajohns.az/uploads/images/pendirli_cubuqlar.jpg",
+                "composition": "Sarımsaq Sousu, Pizza-Sous",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 7,
-                name: "Vetçina və Göbələkli Çubuqlar",
-                img: "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-bikon%20%281%29.png",
-                composition: "Sarımsaq Sousu, Vetçina, Göbələk, Mozzarella",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 7,
+                "name": "Vetçina və Göbələkli Çubuqlar",
+                "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-bikon%20%281%29.png",
+                "composition": "Sarımsaq Sousu, Vetçina, Göbələk, Mozzarella",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 8,
-                name: "Küncütlü Pendirli Çubuqlar",
-                img: "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-kuncut%20(1).png",
-                composition: "Sarımsaq Sousu, Mozzarella, Küncüt",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 8,
+                "name": "Küncütlü Pendirli Çubuqlar",
+                "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-kuncut%20(1).png",
+                "composition": "Sarımsaq Sousu, Mozzarella, Küncüt",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 9,
-                name: "Sarımsaqlı Çubuqlar",
-                img: "https://www.papajohns.az/uploads/images/sarimsaqli_cubuqlar.jpg",
-                composition: "Sarımsaq Sousu, Pizza-Sous",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 9,
+                "name": "Sarımsaqlı Çubuqlar",
+                "img": "https://www.papajohns.az/uploads/images/sarimsaqli_cubuqlar.jpg",
+                "composition": "Sarımsaq Sousu, Pizza-Sous",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 10,
-                name: "Çiken Poppers BBQ",
-                img: "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Chiken-Poppers-BBQ-320x220.png",
-                composition: "150 qram",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 10,
+                "name": "Çiken Poppers BBQ",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Chiken-Poppers-BBQ-320x220.png",
+                "composition": "150 qram",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 11,
-                name: "Kalzone, Qril Toyuğu və Göbələk",
-                img: "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
-                composition: "Qril Toyuğu, Göbələk, Sarımsaq Sousu, Mozzarella",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 11,
+                "name": "Kalzone, Qril Toyuğu və Göbələk",
+                "img": "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
+                "composition": "Qril Toyuğu, Göbələk, Sarımsaq Sousu, Mozzarella",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 12,
-                name: "Kalzone, Pepperoni və İtalyan Sosisi",
-                img: "https://www.papajohns.az/uploads/images/Calzone_Pepperoni.jpg",
-                composition: "Pepperoni, İtalyan Sosisləri, Sarımsaq Sousu, Mozzarella",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 11,
+                "name": "Kalzone, Qril Toyuğu və Göbələk",
+                "img": "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
+                "composition": "Qril Toyuğu, Göbələk, Sarımsaq Sousu, Mozzarella",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 13,
-                name: "Pendirli mütəkkələr",
-                img: "https://www.papajohns.az/uploads/images/snacks/pendirli-m%C3%BCt%C9%99kk%C9%99l%C9%99r.png",
-                composition: "1 ədəd Pizza sousu, 1 ədəd Sarımsaq sousu",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 12,
+                "name": "Kalzone, Pepperoni və İtalyan Sosisi",
+                "img": "https://www.papajohns.az/uploads/images/Calzone_Pepperoni.jpg",
+                "composition": "Pepperoni, İtalyan Sosisləri, Sarımsaq Sousu, Mozzarella",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 14,
-                name: "Toyuq Qanadları",
-                img: "https://www.papajohns.az/uploads/images/toyuq_qanadlari.jpg",
-                composition: "Barbekyu və ya Baffalo sousu ilə (250 gr)",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 13,
+                "name": "Pendirli mütəkkələr",
+                "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-m%C3%BCt%C9%99kk%C9%99l%C9%99r.png",
+                "composition": "1 ədəd Pizza sousu, 1 ədəd Sarımsaq sousu",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 15,
-                name: "Kartof Dilimləri",
-                img: "https://www.papajohns.az/uploads/images/kartof_dilimleri.jpg",
-                composition: "200 qram",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 14,
+                "name": "Toyuq Qanadları",
+                "img": "https://www.papajohns.az/uploads/images/toyuq_qanadlari.jpg",
+                "composition": "Barbekyu və ya Baffalo sousu ilə (250 gr)",
+                "category": "Qəlyanaltılar",
+                "price": 9
             },
-
             {
-                id: 16,
-                name: "Çiken Poppersləri",
-                img: "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/chiken-poppers-320x220-px.png",
-                composition: "150 qram",
-                category: "Qəlyanaltılar",
-                price: 9
+                "id": 15,
+                "name": "Kartof Dilimləri",
+                "img": "https://www.papajohns.az/uploads/images/kartof_dilimleri.jpg",
+                "composition": "200 qram",
+                "category": "Qəlyanaltılar",
+                "price": 9
+            },
+            {
+                "id": 16,
+                "name": "Çiken Poppersləri",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/chiken-poppers-320x220-px.png",
+                "composition": "150 qram",
+                "category": "Qəlyanaltılar",
+                "price": 9
             }
-
         ],
-
-        salat: [
+        "salat": [
             {
                 "id": 158,
                 "name": "Sezar Salatı",
@@ -313,10 +296,8 @@
                 "price": 8
             }
         ],
-
-        pasta: [
+        "pasta": [
             {
-
                 "id": 19,
                 "name": "Pasta Super Papa",
                 "img": "https://www.papajohns.az/uploads/images/pasta_super_papa.jpg",
@@ -325,7 +306,6 @@
                 "price": 9
             },
             {
-
                 "id": 20,
                 "name": "Çiken Ranç Pasta",
                 "img": "https://www.papajohns.az/uploads/images/pasta_chicken_ranch.jpg",
@@ -334,17 +314,15 @@
                 "price": 9
             },
             {
-
                 "id": 21,
                 "name": "Mama Pasta",
                 "img": "https://www.papajohns.az/uploads/images/pasta_mamas_pasta.jpg",
                 "composition": "Spagetti, Parmezan, Oregano, Pizza Sous, Mozzarella ",
                 "category": "Salatlar",
                 "price": 7
-            },
+            }
         ],
-
-        icki: [
+        "icki": [
             {
                 "id": 184,
                 "name": "Coca Cola 500ml",
@@ -373,11 +351,26 @@
                 "category": "İçkilər",
                 "price": 1.5,
                 "variations": [
-                    { "name": "Portağal (200 ml)", "price": 1.5 },
-                    { "name": "Multivitamin (200 ml)", "price": 1.5 },
-                    { "name": "Albalı (200 ml)", "price": 1.5 },
-                    { "name": "Şaftalı (200 ml)", "price": 1.5 },
-                    { "name": "Alma (200 ml)", "price": 1.5 }
+                    {
+                        "name": "Portağal (200 ml)",
+                        "price": 1.5
+                    },
+                    {
+                        "name": "Multivitamin (200 ml)",
+                        "price": 1.5
+                    },
+                    {
+                        "name": "Albalı (200 ml)",
+                        "price": 1.5
+                    },
+                    {
+                        "name": "Şaftalı (200 ml)",
+                        "price": 1.5
+                    },
+                    {
+                        "name": "Alma (200 ml)",
+                        "price": 1.5
+                    }
                 ]
             },
             {
@@ -387,8 +380,14 @@
                 "category": "İçkilər",
                 "price": 1.5,
                 "variations": [
-                    { "name": "Nanəli", "price": 1.5 },
-                    { "name": "Adi", "price": 1.5 }
+                    {
+                        "name": "Nanəli",
+                        "price": 1.5
+                    },
+                    {
+                        "name": "Adi",
+                        "price": 1.5
+                    }
                 ]
             },
             {
@@ -419,14 +418,22 @@
                 "category": "İçkilər",
                 "price": 3,
                 "variations": [
-                    { "name": "Şaftalı", "price": 3 },
-                    { "name": "Limon", "price": 3 },
-                    { "name": "Mango Ananas", "price": 3 }
+                    {
+                        "name": "Şaftalı",
+                        "price": 3
+                    },
+                    {
+                        "name": "Limon",
+                        "price": 3
+                    },
+                    {
+                        "name": "Mango Ananas",
+                        "price": 3
+                    }
                 ]
             }
         ],
-        
-        desert: [
+        "desert": [
             {
                 "id": 275,
                 "name": "Brownie",
@@ -462,13 +469,18 @@
                 "category": "Desserts",
                 "price": 2,
                 "variations": [
-                    { "name": "Çiyələkli", "price": 2 },
-                    { "name": "Şokoladlı", "price": 2 }
+                    {
+                        "name": "Çiyələkli",
+                        "price": 2
+                    },
+                    {
+                        "name": "Şokoladlı",
+                        "price": 2
+                    }
                 ]
             }
         ],
-
-        sous: [
+        "sous": [
             {
                 "id": 174,
                 "name": "Ranç Sousu",
@@ -512,6 +524,5 @@
                 "price": 0.8
             }
         ]
-
     }
 ]
