@@ -116,12 +116,140 @@
                 "price": 12
             },
             {
-                "id": 11,
+                "id": 111,
                 "img": "https://www.papajohns.az/uploads/images/chicken_barbekyu.jpg",
                 "category": "Pizzalar",
                 "name": "Çiken Barbekyu",
                 "composition": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
                 "price": 10
+            },
+            {
+                "id": 11,
+                "name": "Çiken Barbekyu",
+                "img": "https://imageproxy.wolt.com/menu/menu-images/5f31066a051911465b2444dd/b5b0ff72-dafb-11ea-98f9-da3a1e599769_k_ymal__pide.jpeg?w=600",
+                "category": "Pizzalar",
+                "price": 20,
+                "composition": "Pizza sousu, Qril Toyuğu, Göbələk, Barbekyu Sousu, Mozzarella"
+            },
+            {
+                "id": 12,
+                "name": "Cheddar Çiken Club",
+                "img": "https://imageproxy.wolt.com/menu/menu-images/5f31066a051911465b2444dd/b5b0ff72-dafb-11ea-98f9-da3a1e599769_k_ymal__pide.jpeg?w=600",
+                "category": "Pizzalar",
+                "price": 18,
+                "composition": "Pizza sousu, Qril toyuğu, Pomidor, Vetçina, Mozzarella, Cheddar, Ranç sousu"
+            },
+            {
+                "id": 13,
+                "name": "4 Pendir",
+                "img": "https://www.papajohns.az/uploads/images/pizza/4-pendir.png",
+                "category": "Pizzalar",
+                "price": 22,
+                "composition": "Pizza sousu, Mozzarella, Feta, Parmezan və Cheddar Pendirləri"
+            },
+            {
+                "id": 14,
+                "name": "Meksika",
+                "img": "https://www.papajohns.az/uploads/images/pizza/american-hot.png",
+                "category": "Pizzalar",
+                "price": 17,
+                "composition": "Pizza sousu, Qril Toyuğu, Pomidor, Göbələk, Yaşıl Bibər, Halapeno Bibəri, Mozzarella"
+            },
+            {
+                "id": 15,
+                "name": "Super Papa",
+                "img": "https://www.papajohns.az/uploads/images/pizza/4-pendir.png",
+                "category": "Pizzalar",
+                "price": 23,
+                "composition": "Pizza sousu, Pepperoni, İtalyan Sosisi, Vetçina, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella"
+            },
+            {
+                "id": 16,
+                "name": "Yunan",
+                "img": "https://www.papajohns.az/uploads/images/pizza/4-pendir.png",
+                "category": "Pizzalar",
+                "price": 19,
+                "composition": "Pizza sousu, Pomidor, Pepperonçini, Qara Zeytun, Feta Pendiri, Oreqano, Mozzarella Pendiri"
+            },
+            {
+                "id": 17,
+                "name": "Çiken Çizburger",
+                "img": "https://www.papajohns.az/uploads/images/chicken_cheeseburger.jpg",
+                "category": "Pizzalar",
+                "price": 15,
+                "composition": "1000 ada sousu, Qril Toyuğu, Turşu Xiyar, Pomidor, Mozzarella"
+            },
+            {
+                "id": 18,
+                "name": "Marqarita",
+                "img": "https://www.papajohns.az/uploads/images/chicken_cheeseburger.jpg",
+                "category": "Pizzalar",
+                "price": 21,
+                "composition": "Pizza sousu, Pomidor, Oreqano, Ekstra Mozzarella"
+            },
+            {
+                "id": 19,
+                "name": "Qarışıq Ət",
+                "img": "https://www.papajohns.az/uploads/images/qarishiq_et.jpg",
+                "category": "Pizzalar",
+                "price": 24,
+                "composition": "Pizza sousu, Pepperoni, İtalyan Sosisi, Mal Əti, Vetçina, Mozzarella"
+            },
+            {
+                "id": 20,
+                "name": "Vegetarian",
+                "img": "https://www.papajohns.az/uploads/images/vegetarian.jpg",
+                "category": "Pizzalar",
+                "price": 16,
+                "composition": "Pizza sousu, Pomidor, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella"
+            },
+            {
+                "id": 21,
+                "name": "Rastik",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Rustik-320x220-px.png",
+                "category": "Pizzalar",
+                "price": 25,
+                "composition": "BBQ sousu, İtalyan sosisi, Pepperoni, Göbələk, Yaşıl bibər, Mozzarella"
+            },
+            {
+                "id": 22,
+                "name": "Qarışıq ət BBQ",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Qarishiq-et-BBQ-320x220-px.png",
+                "category": "Pizzalar",
+                "price": 20,
+                "composition": "BBQ sousu, İtalyan sosisi, Mal əti, Vetçina, Pepperoni, Mozzarella"
+            },
+            {
+                "id": 23,
+                "name": "Bonanza",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Qarishiq-et-BBQ-320x220-px.png",
+                "category": "Pizzalar",
+                "price": 18,
+                "composition": "BBQ sousu, Mal əti, Vetçina, Pomidor, Mozzarella, Halapeno Bibəri"
+            },
+            {
+                "id": 24,
+                "name": "Dabl Çizburger",
+                "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Noyabr/New%20products/Qarishiq-et-BBQ-320x220-px.png",
+                "category": "Pizzalar",
+                "price": 19,
+                "composition": "1000 ada sousu, Mal Əti, Turşu Xiyar, Pomidor, Mozzarella"
+            },
+            {
+                "id": 25,
+                "name": "Havay",
+                "img": "https://www.papajohns.az/uploads/images/havay.jpg",
+                "category": "Pizzalar",
+                "price": 16,
+                "composition": "Pizza sousu, Qril Toyuğu, Ananas, Ekstra Mozzarella"
+            },
+            {
+                "id": 26,
+                "name": "Vestern Barbekyu",
+                "img": "https://www.papajohns.az/uploads/images/vestern_barbekyu.jpg",
+                "category": "Pizzalar",
+                "price": 22,
+                "composition": "Mal Əti, Göbələk, Barbekyu Sousu, Mozzarella Pendiri"
             }
         ],
         "qelyanalti": [
